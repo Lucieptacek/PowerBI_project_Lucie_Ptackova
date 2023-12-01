@@ -1,5 +1,5 @@
 # PowerBI_project_Lucie_Ptackova
-* Vypracování Power BI projektu - Engeto akademie *
+* Vypracování Power BI projektu - Engeto akademie*
 
 
 ## POWER BI PROJEKT
